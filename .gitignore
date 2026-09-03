@@ -1,0 +1,9 @@
+# Large media files (exceed GitHub 100MB limit)
+*.mp4
+*.zip
+
+# Logs & temp files
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
